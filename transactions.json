@@ -1,0 +1,35 @@
+{
+    "transactions": {
+        "Quests": [
+            {
+                "datum": "2024-03-09",
+                "amount": 50.0,
+                "description": "9"
+            }
+        ],
+        "TrainerBattles": [
+            {
+                "datum": "2024-08-10",
+                "amount": 40.0,
+                "description": "Defeated Gym Leader Sierra"
+            }
+        ],
+        "PokeBalls": [
+            {
+                "datum": "2024-09-08",
+                "amount": 20.0,
+                "description": "greatballs"
+            }
+        ],
+        "Potions": [
+            {
+                "datum": "2024-10-10",
+                "amount": 10.0,
+                "description": "Super Potion"
+            }
+        ],
+        "Items": []
+    },
+    "income": 90.0,
+    "expense": 30.0
+}
