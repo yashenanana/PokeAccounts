@@ -1,6 +1,4 @@
 # Pokemon Trainer Finance Manager
-
-## Introduction
 This project manages financial transactions for your average Pokemon Trainer by categorizing them into commonly found 
 income and expenses.
 
