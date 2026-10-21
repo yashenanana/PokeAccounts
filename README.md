@@ -24,10 +24,10 @@ income and expenses.
 - Generate summaries and bar graphs to analyze financial data.
 
 ### Main Menu
-<img width="190" height="145" alt="Screenshot 2026-10-21 162922" src="https://github.com/user-attachments/assets/8eec3fab-3b86-456a-9689-facc6c75a0c7" />
+<img width="300" height="210" alt="Screenshot 2026-10-21 162922" src="https://github.com/user-attachments/assets/8eec3fab-3b86-456a-9689-facc6c75a0c7" />
 
 ### Data Visualisation
-<img width="164" height="228" alt="Screenshot 2026-10-21 162952" src="https://github.com/user-attachments/assets/3fdfa1b6-37ba-4439-9539-d7b43aedc7b2" />
+<img width="230" height="330" alt="Screenshot 2026-10-21 162952" src="https://github.com/user-attachments/assets/3fdfa1b6-37ba-4439-9539-d7b43aedc7b2" />
 
 
 
